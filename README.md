@@ -15,5 +15,4 @@ Packaging to JAR can be done from the project folder by opening a terminal and r
  - Sample SQL script is kept at <project's root directory>\src\main\resources\data.sql. Initial schema can be created in H2 database after connecting to H2 console.
 
 # Tutorial Video
-In progress...
-
+https://www.youtube.com/watch?v=vK-hQKtREBM&list=PL0erCSlTyAM6puB1vc3wqXczvWVzaPTPr
