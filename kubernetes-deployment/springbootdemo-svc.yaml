@@ -3,6 +3,8 @@ kind: Service
 metadata:
   name: springbootdemo-app
 spec:
+  type:
+    LoadBalancer
   ports:
   - port: 8081
     targetPort: 8081
