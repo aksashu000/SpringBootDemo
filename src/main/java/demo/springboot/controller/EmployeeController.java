@@ -7,6 +7,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
+@CrossOrigin(origins = {"${app.security.cors.origin}"})
 @RequestMapping("/api/employee")
 public class EmployeeController {
     @Autowired

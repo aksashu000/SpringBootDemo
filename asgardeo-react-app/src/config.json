@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.asgardeo.io/t/learnengineering",
+    "clientID": "H06j1DExt8m5uw7JAcWIJdUq2VYa",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://localhost:3000/login",
+    "signOutRedirectURL": "https://localhost:3000/login"
+}
